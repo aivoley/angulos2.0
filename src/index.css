@@ -1,0 +1,21 @@
+/* styles.css - Estilos específicos para la visualización */
+.main-container {
+  text-align: center;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  width: 80%;
+  max-width: 1000px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+input[type="range"] {
+  width: 80%;
+  margin: 10px 0;
+}
+
